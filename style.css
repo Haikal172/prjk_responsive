@@ -1,8 +1,9 @@
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Pangolin', cursive;
 }
 
 body {
@@ -14,10 +15,10 @@ body {
 
 h1 {
     text-align: center;
-    border-radius: 8px;
+    border-radius: 20px;
     background: #1dbcfd;
     color: white;
-    letter-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
 }
 
 .wrapper {
